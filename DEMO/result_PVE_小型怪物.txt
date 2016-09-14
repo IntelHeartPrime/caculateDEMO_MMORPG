@@ -1,0 +1,918 @@
+['', '武僧', '刺客', '战士', '机械师', '法师', '枪手', '坦克']
+8
+['体力', 200.0, 200.0, 400.0, 200.0, 200.0, 200.0, 500.0]
+['魔法/能量', 200.0, 200.0, 200.0, 400.0, 400.0, 200.0, 200.0]
+['力量', 10.0, 12.0, 10.0, 10.0, 10.0, 10.0, 10.0]
+['敏捷', 5.0, 6.0, 5.0, 5.0, 5.0, 6.0, 5.0]
+['智力', 7.0, 5.0, 5.0, 8.0, 8.0, 5.0, 5.0]
+['护甲', 5.0, 5.0, 7.0, 5.0, 5.0, 5.0, 8.0]
+['磨抗', 5.0, 5.0, 6.0, 5.0, 5.0, 5.0, 6.0]
+['', '疾风腿', '禅', '隐形', '背刺', '强袭', '不屈', '炮塔', '电磁炮', '火球', '冰脉', '疾风步', '致命一击', '铁甲', '战意']
+15
+['试算转化系数', 1.2, 0.2, 0.2, 1.5, 1.0, 0.3, 1.0, 1.5, 1.0, 0.2, 0.2, 1.5, 0.3, 0.3]
+['物理伤害', 20.0, 10.0, 10.0, 30.0, 15.0, 20.0, 10.0, 0.0, 0.0, 0.0, 10.0, 30.0, 20.0, 20.0]
+['魔法伤害', 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 20.0, 30.0, 10.0, 20.0, 0.0, 0.0, 0.0]
+['AOE值', 1.0, 1.0, 1.0, 1.0, 2.0, 1.0, 1.0, 2.0, 1.0, 3.0, 1.0, 1.0, 1.0, 1.0]
+['描述', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+['cd', 10.0, 10.0, 10.0, 11.0, 8.0, 12.0, 3.0, 15.0, 10.0, 10.0, 5.0, 10.0, 5.0, 5.0]
+['消耗量', 30.0, 40.0, 40.0, 30.0, 20.0, 30.0, 50.0, 50.0, 20.0, 50.0, 40.0, 40.0, 30.0, 30.0]
+['master', '武僧', '武僧', '刺客', '刺客', '战士', '战士', '机械师', '机械师', '法师', '法师', '枪手', '枪手', '坦克', '坦克']
+['', '小型怪物', '中型怪物', '大型怪物', 'boss']
+5
+['生命值', 100.0, 400.0, 1000.0, 5000.0]
+['伤害量', 10.0, 50.0, 200.0, 300.0]
+['护甲', 10.0, 40.0, 100.0, 200.0]
+['魔抗', 10.0, 40.0, 100.0, 200.0]
+['经验值', 100.0, 500.0, 1500.0, 10000.0]
+武僧LEVEL UP TO:2
+武僧----attack----小型怪物 the Harm =16.16 小型怪物Hp=83.84
+小型怪物-attack-武僧--harm=:5.0  hero.HP剩余：205.0
+武僧----attack----小型怪物 the Harm =16.16 小型怪物Hp=67.68
+小型怪物-attack-武僧--harm=:5.0  hero.HP剩余：210.0
+小型怪物-attack-武僧--harm=:5.0  hero.HP剩余：205.0
+武僧----attack----小型怪物 the Harm =16.16 小型怪物Hp=51.52000000000001
+小型怪物-attack-武僧--harm=:5.0  hero.HP剩余：210.0
+小型怪物-attack-武僧--harm=:5.0  hero.HP剩余：205.0
+小型怪物-attack-武僧--harm=:5.0  hero.HP剩余：200.0
+武僧----attack----小型怪物 the Harm =16.16 小型怪物Hp=35.360000000000014
+小型怪物-attack-武僧--harm=:5.0  hero.HP剩余：205.0
+小型怪物-attack-武僧--harm=:5.0  hero.HP剩余：200.0
+小型怪物-attack-武僧--harm=:5.0  hero.HP剩余：195.0
+小型怪物-attack-武僧--harm=:5.0  hero.HP剩余：190.0
+武僧----attack----小型怪物 the Harm =16.16 小型怪物Hp=19.200000000000014
+小型怪物-attack-武僧--harm=:5.0  hero.HP剩余：195.0
+小型怪物-attack-武僧--harm=:5.0  hero.HP剩余：190.0
+小型怪物-attack-武僧--harm=:5.0  hero.HP剩余：185.0
+小型怪物-attack-武僧--harm=:5.0  hero.HP剩余：180.0
+小型怪物-attack-武僧--harm=:5.0  hero.HP剩余：175.0
+武僧 use Skill:疾风腿  harm=14.399999999999999
+21 小型怪物 DIED!!
+武僧get experience:2.4000000000000057
+武僧----attack----小型怪物 the Harm =113.12 小型怪物Hp=0
+小型怪物-attack-武僧--harm=:5.0  hero.HP剩余：180.0
+小型怪物-attack-武僧--harm=:5.0  hero.HP剩余：175.0
+小型怪物-attack-武僧--harm=:5.0  hero.HP剩余：170.0
+小型怪物-attack-武僧--harm=:5.0  hero.HP剩余：165.0
+小型怪物-attack-武僧--harm=:5.0  hero.HP剩余：160.0
+小型怪物-attack-武僧--harm=:5.0  hero.HP剩余：155.0
+22 小型怪物 DIED!!
+武僧get experience:50.0
+武僧----attack----小型怪物 the Harm =113.12 小型怪物Hp=0
+小型怪物-attack-武僧--harm=:5.0  hero.HP剩余：160.0
+小型怪物-attack-武僧--harm=:5.0  hero.HP剩余：155.0
+小型怪物-attack-武僧--harm=:5.0  hero.HP剩余：150.0
+小型怪物-attack-武僧--harm=:5.0  hero.HP剩余：145.0
+小型怪物-attack-武僧--harm=:5.0  hero.HP剩余：140.0
+小型怪物-attack-武僧--harm=:5.0  hero.HP剩余：135.0
+武僧----attack----小型怪物 the Harm =16.16 小型怪物Hp=83.84
+小型怪物-attack-武僧--harm=:5.0  hero.HP剩余：140.0
+小型怪物-attack-武僧--harm=:5.0  hero.HP剩余：135.0
+小型怪物-attack-武僧--harm=:5.0  hero.HP剩余：130.0
+小型怪物-attack-武僧--harm=:5.0  hero.HP剩余：125.0
+小型怪物-attack-武僧--harm=:5.0  hero.HP剩余：120.0
+小型怪物-attack-武僧--harm=:5.0  hero.HP剩余：115.0
+小型怪物-attack-武僧--harm=:5.0  hero.HP剩余：110.0
+武僧----attack----小型怪物 the Harm =16.16 小型怪物Hp=67.68
+小型怪物-attack-武僧--harm=:5.0  hero.HP剩余：115.0
+小型怪物-attack-武僧--harm=:5.0  hero.HP剩余：110.0
+小型怪物-attack-武僧--harm=:5.0  hero.HP剩余：105.0
+小型怪物-attack-武僧--harm=:5.0  hero.HP剩余：100.0
+小型怪物-attack-武僧--harm=:5.0  hero.HP剩余：95.0
+小型怪物-attack-武僧--harm=:5.0  hero.HP剩余：90.0
+小型怪物-attack-武僧--harm=:5.0  hero.HP剩余：85.0
+小型怪物-attack-武僧--harm=:5.0  hero.HP剩余：80.0
+23 小型怪物 DIED!!
+武僧get experience:33.84
+武僧----attack----小型怪物 the Harm =113.12 小型怪物Hp=0
+小型怪物-attack-武僧--harm=:5.0  hero.HP剩余：85.0
+小型怪物-attack-武僧--harm=:5.0  hero.HP剩余：80.0
+小型怪物-attack-武僧--harm=:5.0  hero.HP剩余：75.0
+小型怪物-attack-武僧--harm=:5.0  hero.HP剩余：70.0
+小型怪物-attack-武僧--harm=:5.0  hero.HP剩余：65.0
+小型怪物-attack-武僧--harm=:5.0  hero.HP剩余：60.0
+小型怪物-attack-武僧--harm=:5.0  hero.HP剩余：55.0
+小型怪物-attack-武僧--harm=:5.0  hero.HP剩余：50.0
+武僧 use Skill:疾风腿  harm=14.399999999999999
+24 小型怪物 DIED!!
+武僧get experience:42.8
+武僧----attack----小型怪物 the Harm =113.12 小型怪物Hp=0
+小型怪物-attack-武僧--harm=:5.0  hero.HP剩余：55.0
+小型怪物-attack-武僧--harm=:5.0  hero.HP剩余：50.0
+小型怪物-attack-武僧--harm=:5.0  hero.HP剩余：45.0
+小型怪物-attack-武僧--harm=:5.0  hero.HP剩余：40.0
+小型怪物-attack-武僧--harm=:5.0  hero.HP剩余：35.0
+小型怪物-attack-武僧--harm=:5.0  hero.HP剩余：30.0
+小型怪物-attack-武僧--harm=:5.0  hero.HP剩余：25.0
+小型怪物-attack-武僧--harm=:5.0  hero.HP剩余：20.0
+小型怪物-attack-武僧--harm=:5.0  hero.HP剩余：15.0
+武僧----attack----小型怪物 the Harm =16.16 小型怪物Hp=83.84
+小型怪物-attack-武僧--harm=:5.0  hero.HP剩余：20.0
+小型怪物-attack-武僧--harm=:5.0  hero.HP剩余：15.0
+小型怪物-attack-武僧--harm=:5.0  hero.HP剩余：10.0
+小型怪物-attack-武僧--harm=:5.0  hero.HP剩余：5.0
+小型怪物-attack-武僧--harm=:5.0  hero.HP剩余：0.0
+Hero Die:武僧
+小型怪物-attack-武僧--harm=:5.0  hero.HP剩余：-5.0
+Hero Die:武僧
+小型怪物-attack-武僧--harm=:5.0  hero.HP剩余：-10.0
+Hero Die:武僧
+小型怪物-attack-武僧--harm=:5.0  hero.HP剩余：-15.0
+Hero Die:武僧
+小型怪物-attack-武僧--harm=:5.0  hero.HP剩余：-20.0
+Hero Die:武僧
+小型怪物-attack-武僧--harm=:5.0  hero.HP剩余：-25.0
+Hero Die:武僧
+刺客LEVEL UP TO:2
+25 小型怪物 DIED!!
+刺客get experience:41.92
+刺客----attack----小型怪物 the Harm =153.35999999999999 小型怪物Hp=0
+刺客----attack----小型怪物 the Harm =34.08 小型怪物Hp=65.92
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：215.0
+刺客----attack----小型怪物 the Harm =34.08 小型怪物Hp=31.840000000000003
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：215.0
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：210.0
+26 小型怪物 DIED!!
+刺客get experience:15.920000000000002
+刺客----attack----小型怪物 the Harm =34.08 小型怪物Hp=0
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：215.0
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：210.0
+刺客----attack----小型怪物 the Harm =34.08 小型怪物Hp=65.92
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：215.0
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：210.0
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：205.0
+刺客 use Skill:隐形  harm=0
+刺客----attack----小型怪物 the Harm =34.08 小型怪物Hp=31.840000000000003
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：210.0
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：205.0
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：200.0
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：195.0
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：190.0
+27 小型怪物 DIED!!
+刺客get experience:15.920000000000002
+刺客----attack----小型怪物 the Harm =34.08 小型怪物Hp=0
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：195.0
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：190.0
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：185.0
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：180.0
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：175.0
+28 小型怪物 DIED!!
+刺客get experience:50.0
+刺客----attack----小型怪物 the Harm =153.35999999999999 小型怪物Hp=0
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：180.0
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：175.0
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：170.0
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：165.0
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：160.0
+刺客----attack----小型怪物 the Harm =34.08 小型怪物Hp=65.92
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：165.0
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：160.0
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：155.0
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：150.0
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：145.0
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：140.0
+刺客----attack----小型怪物 the Harm =34.08 小型怪物Hp=31.840000000000003
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：145.0
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：140.0
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：135.0
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：130.0
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：125.0
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：120.0
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：115.0
+刺客 use Skill:隐形  harm=0
+29 小型怪物 DIED!!
+刺客get experience:15.920000000000002
+刺客----attack----小型怪物 the Harm =34.08 小型怪物Hp=0
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：120.0
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：115.0
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：110.0
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：105.0
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：100.0
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：95.0
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：90.0
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：85.0
+30 小型怪物 DIED!!
+刺客get experience:50.0
+刺客----attack----小型怪物 the Harm =153.35999999999999 小型怪物Hp=0
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：90.0
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：85.0
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：80.0
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：75.0
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：70.0
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：65.0
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：60.0
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：55.0
+刺客----attack----小型怪物 the Harm =34.08 小型怪物Hp=65.92
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：60.0
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：55.0
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：50.0
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：45.0
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：40.0
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：35.0
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：30.0
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：25.0
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：20.0
+刺客----attack----小型怪物 the Harm =34.08 小型怪物Hp=31.840000000000003
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：25.0
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：20.0
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：15.0
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：10.0
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：5.0
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：0.0
+Hero Die:刺客
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：-5.0
+Hero Die:刺客
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：-10.0
+Hero Die:刺客
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：-15.0
+Hero Die:刺客
+小型怪物-attack-刺客--harm=:5.0  hero.HP剩余：-20.0
+Hero Die:刺客
+战士LEVEL UP TO:2
+战士----attack----小型怪物 the Harm =16.16 小型怪物Hp=15.680000000000003
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：217.0
+31 小型怪物 DIED!!
+战士get experience:7.840000000000001
+战士----attack----小型怪物 the Harm =16.16 小型怪物Hp=0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：217.0
+战士----attack----小型怪物 the Harm =16.16 小型怪物Hp=83.84
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：217.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：214.0
+战士----attack----小型怪物 the Harm =16.16 小型怪物Hp=67.68
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：217.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：214.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：211.0
+战士 use Skill:强袭  harm=4.0
+战士 use Skill:强袭  harm=4.0
+32 小型怪物 DIED!!
+战士get experience:31.840000000000003
+战士----attack----小型怪物 the Harm =113.12 小型怪物Hp=0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：217.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：214.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：211.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：208.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：205.0
+33 小型怪物 DIED!!
+战士get experience:48.0
+战士----attack----小型怪物 the Harm =113.12 小型怪物Hp=0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：212.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：209.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：206.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：203.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：200.0
+34 小型怪物 DIED!!
+战士get experience:50.0
+战士----attack----小型怪物 the Harm =113.12 小型怪物Hp=0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：207.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：204.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：201.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：198.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：195.0
+35 小型怪物 DIED!!
+战士get experience:50.0
+战士----attack----小型怪物 the Harm =113.12 小型怪物Hp=0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：202.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：199.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：196.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：193.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：190.0
+战士----attack----小型怪物 the Harm =16.16 小型怪物Hp=83.84
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：197.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：194.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：191.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：188.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：185.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：182.0
+战士 use Skill:强袭  harm=4.0
+战士 use Skill:强袭  harm=4.0
+36 小型怪物 DIED!!
+战士get experience:39.92
+战士----attack----小型怪物 the Harm =113.12 小型怪物Hp=0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：189.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：186.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：183.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：180.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：177.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：174.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：171.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：168.0
+战士----attack----小型怪物 the Harm =16.16 小型怪物Hp=79.84
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：175.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：172.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：169.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：166.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：163.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：160.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：157.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：154.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：151.0
+战士----attack----小型怪物 the Harm =16.16 小型怪物Hp=63.68000000000001
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：158.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：155.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：152.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：149.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：146.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：143.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：140.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：137.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：134.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：131.0
+战士----attack----小型怪物 the Harm =16.16 小型怪物Hp=47.52000000000001
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：138.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：135.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：132.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：129.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：126.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：123.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：120.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：117.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：114.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：111.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：108.0
+战士----attack----小型怪物 the Harm =16.16 小型怪物Hp=31.36000000000001
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：115.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：112.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：109.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：106.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：103.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：100.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：97.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：94.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：91.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：88.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：85.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：82.0
+战士 use Skill:强袭  harm=4.0
+战士 use Skill:强袭  harm=4.0
+37 小型怪物 DIED!!
+战士get experience:13.680000000000007
+战士----attack----小型怪物 the Harm =113.12 小型怪物Hp=0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：89.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：86.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：83.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：80.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：77.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：74.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：71.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：68.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：65.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：62.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：59.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：56.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：53.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：50.0
+战士----attack----小型怪物 the Harm =16.16 小型怪物Hp=79.84
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：57.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：54.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：51.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：48.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：45.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：42.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：39.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：36.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：33.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：30.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：27.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：24.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：21.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：18.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：15.0
+战士----attack----小型怪物 the Harm =16.16 小型怪物Hp=63.68000000000001
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：22.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：19.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：16.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：13.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：10.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：7.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：4.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：1.0
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：-2.0
+Hero Die:战士
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：-5.0
+Hero Die:战士
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：-8.0
+Hero Die:战士
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：-11.0
+Hero Die:战士
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：-14.0
+Hero Die:战士
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：-17.0
+Hero Die:战士
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：-20.0
+Hero Die:战士
+小型怪物-attack-战士--harm=:3.0  hero.HP剩余：-23.0
+Hero Die:战士
+机械师LEVEL UP TO:2
+机械师----attack----小型怪物 the Harm =16.16 小型怪物Hp=47.52000000000001
+小型怪物-attack-机械师--harm=:5.0  hero.HP剩余：205.0
+机械师----attack----小型怪物 the Harm =16.16 小型怪物Hp=31.36000000000001
+小型怪物-attack-机械师--harm=:5.0  hero.HP剩余：210.0
+小型怪物-attack-机械师--harm=:5.0  hero.HP剩余：205.0
+机械师 use Skill:炮塔  harm=11.0
+机械师----attack----小型怪物 the Harm =16.16 小型怪物Hp=4.20000000000001
+小型怪物-attack-机械师--harm=:5.0  hero.HP剩余：210.0
+小型怪物-attack-机械师--harm=:5.0  hero.HP剩余：205.0
+小型怪物-attack-机械师--harm=:5.0  hero.HP剩余：200.0
+小型怪物-attack-机械师--harm=:5.0  hero.HP剩余：195.0
+38 小型怪物 DIED!!
+机械师get experience:2.1000000000000085
+机械师----attack----小型怪物 the Harm =113.12 小型怪物Hp=0
+小型怪物-attack-机械师--harm=:5.0  hero.HP剩余：200.0
+小型怪物-attack-机械师--harm=:5.0  hero.HP剩余：195.0
+小型怪物-attack-机械师--harm=:5.0  hero.HP剩余：190.0
+小型怪物-attack-机械师--harm=:5.0  hero.HP剩余：185.0
+39 小型怪物 DIED!!
+机械师get experience:50.0
+机械师----attack----小型怪物 the Harm =113.12 小型怪物Hp=0
+小型怪物-attack-机械师--harm=:5.0  hero.HP剩余：190.0
+小型怪物-attack-机械师--harm=:5.0  hero.HP剩余：185.0
+小型怪物-attack-机械师--harm=:5.0  hero.HP剩余：180.0
+小型怪物-attack-机械师--harm=:5.0  hero.HP剩余：175.0
+机械师----attack----小型怪物 the Harm =16.16 小型怪物Hp=83.84
+小型怪物-attack-机械师--harm=:5.0  hero.HP剩余：180.0
+小型怪物-attack-机械师--harm=:5.0  hero.HP剩余：175.0
+小型怪物-attack-机械师--harm=:5.0  hero.HP剩余：170.0
+小型怪物-attack-机械师--harm=:5.0  hero.HP剩余：165.0
+小型怪物-attack-机械师--harm=:5.0  hero.HP剩余：160.0
+机械师----attack----小型怪物 the Harm =16.16 小型怪物Hp=67.68
+小型怪物-attack-机械师--harm=:5.0  hero.HP剩余：165.0
+小型怪物-attack-机械师--harm=:5.0  hero.HP剩余：160.0
+小型怪物-attack-机械师--harm=:5.0  hero.HP剩余：155.0
+小型怪物-attack-机械师--harm=:5.0  hero.HP剩余：150.0
+小型怪物-attack-机械师--harm=:5.0  hero.HP剩余：145.0
+小型怪物-attack-机械师--harm=:5.0  hero.HP剩余：140.0
+机械师 use Skill:炮塔  harm=11.0
+40 小型怪物 DIED!!
+机械师get experience:28.340000000000003
+机械师----attack----小型怪物 the Harm =113.12 小型怪物Hp=0
+小型怪物-attack-机械师--harm=:5.0  hero.HP剩余：145.0
+小型怪物-attack-机械师--harm=:5.0  hero.HP剩余：140.0
+小型怪物-attack-机械师--harm=:5.0  hero.HP剩余：135.0
+小型怪物-attack-机械师--harm=:5.0  hero.HP剩余：130.0
+小型怪物-attack-机械师--harm=:5.0  hero.HP剩余：125.0
+小型怪物-attack-机械师--harm=:5.0  hero.HP剩余：120.0
+小型怪物-attack-机械师--harm=:5.0  hero.HP剩余：115.0
+机械师----attack----小型怪物 the Harm =16.16 小型怪物Hp=83.84
+小型怪物-attack-机械师--harm=:5.0  hero.HP剩余：120.0
+小型怪物-attack-机械师--harm=:5.0  hero.HP剩余：115.0
+小型怪物-attack-机械师--harm=:5.0  hero.HP剩余：110.0
+小型怪物-attack-机械师--harm=:5.0  hero.HP剩余：105.0
+小型怪物-attack-机械师--harm=:5.0  hero.HP剩余：100.0
+小型怪物-attack-机械师--harm=:5.0  hero.HP剩余：95.0
+小型怪物-attack-机械师--harm=:5.0  hero.HP剩余：90.0
+小型怪物-attack-机械师--harm=:5.0  hero.HP剩余：85.0
+机械师----attack----小型怪物 the Harm =16.16 小型怪物Hp=67.68
+小型怪物-attack-机械师--harm=:5.0  hero.HP剩余：90.0
+小型怪物-attack-机械师--harm=:5.0  hero.HP剩余：85.0
+小型怪物-attack-机械师--harm=:5.0  hero.HP剩余：80.0
+小型怪物-attack-机械师--harm=:5.0  hero.HP剩余：75.0
+小型怪物-attack-机械师--harm=:5.0  hero.HP剩余：70.0
+小型怪物-attack-机械师--harm=:5.0  hero.HP剩余：65.0
+小型怪物-attack-机械师--harm=:5.0  hero.HP剩余：60.0
+小型怪物-attack-机械师--harm=:5.0  hero.HP剩余：55.0
+小型怪物-attack-机械师--harm=:5.0  hero.HP剩余：50.0
+41 小型怪物 DIED!!
+机械师get experience:33.84
+机械师----attack----小型怪物 the Harm =113.12 小型怪物Hp=0
+小型怪物-attack-机械师--harm=:5.0  hero.HP剩余：55.0
+小型怪物-attack-机械师--harm=:5.0  hero.HP剩余：50.0
+小型怪物-attack-机械师--harm=:5.0  hero.HP剩余：45.0
+小型怪物-attack-机械师--harm=:5.0  hero.HP剩余：40.0
+小型怪物-attack-机械师--harm=:5.0  hero.HP剩余：35.0
+小型怪物-attack-机械师--harm=:5.0  hero.HP剩余：30.0
+小型怪物-attack-机械师--harm=:5.0  hero.HP剩余：25.0
+小型怪物-attack-机械师--harm=:5.0  hero.HP剩余：20.0
+小型怪物-attack-机械师--harm=:5.0  hero.HP剩余：15.0
+机械师----attack----小型怪物 the Harm =16.16 小型怪物Hp=83.84
+小型怪物-attack-机械师--harm=:5.0  hero.HP剩余：20.0
+小型怪物-attack-机械师--harm=:5.0  hero.HP剩余：15.0
+小型怪物-attack-机械师--harm=:5.0  hero.HP剩余：10.0
+小型怪物-attack-机械师--harm=:5.0  hero.HP剩余：5.0
+小型怪物-attack-机械师--harm=:5.0  hero.HP剩余：0.0
+Hero Die:机械师
+小型怪物-attack-机械师--harm=:5.0  hero.HP剩余：-5.0
+Hero Die:机械师
+小型怪物-attack-机械师--harm=:5.0  hero.HP剩余：-10.0
+Hero Die:机械师
+小型怪物-attack-机械师--harm=:5.0  hero.HP剩余：-15.0
+Hero Die:机械师
+小型怪物-attack-机械师--harm=:5.0  hero.HP剩余：-20.0
+Hero Die:机械师
+小型怪物-attack-机械师--harm=:5.0  hero.HP剩余：-25.0
+Hero Die:机械师
+机械师 use Skill:炮塔  harm=11.0
+法师LEVEL UP TO:2
+42 小型怪物 DIED!!
+法师get experience:36.42
+法师----attack----小型怪物 the Harm =113.12 小型怪物Hp=0
+法师----attack----小型怪物 the Harm =16.16 小型怪物Hp=83.84
+小型怪物-attack-法师--harm=:5.0  hero.HP剩余：215.0
+法师----attack----小型怪物 the Harm =16.16 小型怪物Hp=67.68
+小型怪物-attack-法师--harm=:5.0  hero.HP剩余：215.0
+小型怪物-attack-法师--harm=:5.0  hero.HP剩余：210.0
+法师----attack----小型怪物 the Harm =16.16 小型怪物Hp=51.52000000000001
+小型怪物-attack-法师--harm=:5.0  hero.HP剩余：215.0
+小型怪物-attack-法师--harm=:5.0  hero.HP剩余：210.0
+小型怪物-attack-法师--harm=:5.0  hero.HP剩余：205.0
+法师----attack----小型怪物 the Harm =16.16 小型怪物Hp=35.360000000000014
+小型怪物-attack-法师--harm=:5.0  hero.HP剩余：210.0
+小型怪物-attack-法师--harm=:5.0  hero.HP剩余：205.0
+小型怪物-attack-法师--harm=:5.0  hero.HP剩余：200.0
+小型怪物-attack-法师--harm=:5.0  hero.HP剩余：195.0
+法师 use Skill:火球  harm=25.0
+43 小型怪物 DIED!!
+法师get experience:5.180000000000007
+法师----attack----小型怪物 the Harm =16.16 小型怪物Hp=0
+小型怪物-attack-法师--harm=:5.0  hero.HP剩余：200.0
+小型怪物-attack-法师--harm=:5.0  hero.HP剩余：195.0
+小型怪物-attack-法师--harm=:5.0  hero.HP剩余：190.0
+小型怪物-attack-法师--harm=:5.0  hero.HP剩余：185.0
+小型怪物-attack-法师--harm=:5.0  hero.HP剩余：180.0
+法师----attack----小型怪物 the Harm =16.16 小型怪物Hp=83.84
+小型怪物-attack-法师--harm=:5.0  hero.HP剩余：185.0
+小型怪物-attack-法师--harm=:5.0  hero.HP剩余：180.0
+小型怪物-attack-法师--harm=:5.0  hero.HP剩余：175.0
+小型怪物-attack-法师--harm=:5.0  hero.HP剩余：170.0
+小型怪物-attack-法师--harm=:5.0  hero.HP剩余：165.0
+小型怪物-attack-法师--harm=:5.0  hero.HP剩余：160.0
+法师----attack----小型怪物 the Harm =16.16 小型怪物Hp=67.68
+小型怪物-attack-法师--harm=:5.0  hero.HP剩余：165.0
+小型怪物-attack-法师--harm=:5.0  hero.HP剩余：160.0
+小型怪物-attack-法师--harm=:5.0  hero.HP剩余：155.0
+小型怪物-attack-法师--harm=:5.0  hero.HP剩余：150.0
+小型怪物-attack-法师--harm=:5.0  hero.HP剩余：145.0
+小型怪物-attack-法师--harm=:5.0  hero.HP剩余：140.0
+小型怪物-attack-法师--harm=:5.0  hero.HP剩余：135.0
+法师----attack----小型怪物 the Harm =16.16 小型怪物Hp=51.52000000000001
+小型怪物-attack-法师--harm=:5.0  hero.HP剩余：140.0
+小型怪物-attack-法师--harm=:5.0  hero.HP剩余：135.0
+小型怪物-attack-法师--harm=:5.0  hero.HP剩余：130.0
+小型怪物-attack-法师--harm=:5.0  hero.HP剩余：125.0
+小型怪物-attack-法师--harm=:5.0  hero.HP剩余：120.0
+小型怪物-attack-法师--harm=:5.0  hero.HP剩余：115.0
+小型怪物-attack-法师--harm=:5.0  hero.HP剩余：110.0
+小型怪物-attack-法师--harm=:5.0  hero.HP剩余：105.0
+44 小型怪物 DIED!!
+法师get experience:25.760000000000005
+法师----attack----小型怪物 the Harm =113.12 小型怪物Hp=0
+小型怪物-attack-法师--harm=:5.0  hero.HP剩余：110.0
+小型怪物-attack-法师--harm=:5.0  hero.HP剩余：105.0
+小型怪物-attack-法师--harm=:5.0  hero.HP剩余：100.0
+小型怪物-attack-法师--harm=:5.0  hero.HP剩余：95.0
+小型怪物-attack-法师--harm=:5.0  hero.HP剩余：90.0
+小型怪物-attack-法师--harm=:5.0  hero.HP剩余：85.0
+小型怪物-attack-法师--harm=:5.0  hero.HP剩余：80.0
+小型怪物-attack-法师--harm=:5.0  hero.HP剩余：75.0
+法师 use Skill:火球  harm=25.0
+法师----attack----小型怪物 the Harm =16.16 小型怪物Hp=58.84
+小型怪物-attack-法师--harm=:5.0  hero.HP剩余：80.0
+小型怪物-attack-法师--harm=:5.0  hero.HP剩余：75.0
+小型怪物-attack-法师--harm=:5.0  hero.HP剩余：70.0
+小型怪物-attack-法师--harm=:5.0  hero.HP剩余：65.0
+小型怪物-attack-法师--harm=:5.0  hero.HP剩余：60.0
+小型怪物-attack-法师--harm=:5.0  hero.HP剩余：55.0
+小型怪物-attack-法师--harm=:5.0  hero.HP剩余：50.0
+小型怪物-attack-法师--harm=:5.0  hero.HP剩余：45.0
+小型怪物-attack-法师--harm=:5.0  hero.HP剩余：40.0
+小型怪物-attack-法师--harm=:5.0  hero.HP剩余：35.0
+法师----attack----小型怪物 the Harm =16.16 小型怪物Hp=42.68000000000001
+小型怪物-attack-法师--harm=:5.0  hero.HP剩余：40.0
+小型怪物-attack-法师--harm=:5.0  hero.HP剩余：35.0
+小型怪物-attack-法师--harm=:5.0  hero.HP剩余：30.0
+小型怪物-attack-法师--harm=:5.0  hero.HP剩余：25.0
+小型怪物-attack-法师--harm=:5.0  hero.HP剩余：20.0
+小型怪物-attack-法师--harm=:5.0  hero.HP剩余：15.0
+小型怪物-attack-法师--harm=:5.0  hero.HP剩余：10.0
+小型怪物-attack-法师--harm=:5.0  hero.HP剩余：5.0
+小型怪物-attack-法师--harm=:5.0  hero.HP剩余：0.0
+Hero Die:法师
+小型怪物-attack-法师--harm=:5.0  hero.HP剩余：-5.0
+Hero Die:法师
+小型怪物-attack-法师--harm=:5.0  hero.HP剩余：-10.0
+Hero Die:法师
+枪手LEVEL UP TO:2
+枪手----attack----小型怪物 the Harm =17.04 小型怪物Hp=25.640000000000008
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：205.0
+枪手----attack----小型怪物 the Harm =17.04 小型怪物Hp=8.600000000000009
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：210.0
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：205.0
+45 小型怪物 DIED!!
+枪手get experience:4.300000000000004
+枪手----attack----小型怪物 the Harm =17.04 小型怪物Hp=0
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：210.0
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：205.0
+枪手 use Skill:疾风步  harm=4.6000000000000005
+枪手----attack----小型怪物 the Harm =17.04 小型怪物Hp=78.36000000000001
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：210.0
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：205.0
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：200.0
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：195.0
+枪手----attack----小型怪物 the Harm =17.04 小型怪物Hp=61.320000000000014
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：200.0
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：195.0
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：190.0
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：185.0
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：180.0
+枪手----attack----小型怪物 the Harm =17.04 小型怪物Hp=44.280000000000015
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：185.0
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：180.0
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：175.0
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：170.0
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：165.0
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：160.0
+46 小型怪物 DIED!!
+枪手get experience:22.140000000000008
+枪手----attack----小型怪物 the Harm =119.28 小型怪物Hp=0
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：165.0
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：160.0
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：155.0
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：150.0
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：145.0
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：140.0
+枪手----attack----小型怪物 the Harm =17.04 小型怪物Hp=82.96000000000001
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：145.0
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：140.0
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：135.0
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：130.0
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：125.0
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：120.0
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：115.0
+枪手 use Skill:疾风步  harm=4.6000000000000005
+枪手----attack----小型怪物 the Harm =17.04 小型怪物Hp=61.320000000000014
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：120.0
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：115.0
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：110.0
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：105.0
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：100.0
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：95.0
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：90.0
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：85.0
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：80.0
+47 小型怪物 DIED!!
+枪手get experience:30.66000000000001
+枪手----attack----小型怪物 the Harm =119.28 小型怪物Hp=0
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：85.0
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：80.0
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：75.0
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：70.0
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：65.0
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：60.0
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：55.0
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：50.0
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：45.0
+枪手----attack----小型怪物 the Harm =17.04 小型怪物Hp=82.96000000000001
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：50.0
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：45.0
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：40.0
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：35.0
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：30.0
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：25.0
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：20.0
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：15.0
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：10.0
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：5.0
+枪手----attack----小型怪物 the Harm =17.04 小型怪物Hp=65.92000000000002
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：10.0
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：5.0
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：0.0
+Hero Die:枪手
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：-5.0
+Hero Die:枪手
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：-10.0
+Hero Die:枪手
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：-15.0
+Hero Die:枪手
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：-20.0
+Hero Die:枪手
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：-25.0
+Hero Die:枪手
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：-30.0
+Hero Die:枪手
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：-35.0
+Hero Die:枪手
+小型怪物-attack-枪手--harm=:5.0  hero.HP剩余：-40.0
+Hero Die:枪手
+坦克LEVEL UP TO:2
+坦克----attack----小型怪物 the Harm =16.16 小型怪物Hp=49.76000000000002
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：218.0
+坦克----attack----小型怪物 the Harm =16.16 小型怪物Hp=33.60000000000002
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：218.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：216.0
+坦克----attack----小型怪物 the Harm =16.16 小型怪物Hp=17.440000000000023
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：218.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：216.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：214.0
+坦克 use Skill:铁甲  harm=3.5999999999999996
+48 小型怪物 DIED!!
+坦克get experience:6.920000000000011
+坦克----attack----小型怪物 the Harm =16.16 小型怪物Hp=0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：218.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：216.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：214.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：212.0
+坦克----attack----小型怪物 the Harm =16.16 小型怪物Hp=83.84
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：218.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：216.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：214.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：212.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：210.0
+坦克----attack----小型怪物 the Harm =16.16 小型怪物Hp=67.68
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：218.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：216.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：214.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：212.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：210.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：208.0
+坦克----attack----小型怪物 the Harm =16.16 小型怪物Hp=51.52000000000001
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：216.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：214.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：212.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：210.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：208.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：206.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：204.0
+坦克----attack----小型怪物 the Harm =16.16 小型怪物Hp=35.360000000000014
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：212.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：210.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：208.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：206.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：204.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：202.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：200.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：198.0
+坦克 use Skill:铁甲  harm=3.5999999999999996
+坦克----attack----小型怪物 the Harm =16.16 小型怪物Hp=15.600000000000012
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：206.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：204.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：202.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：200.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：198.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：196.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：194.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：192.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：190.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：188.0
+49 小型怪物 DIED!!
+坦克get experience:7.800000000000005
+坦克----attack----小型怪物 the Harm =16.16 小型怪物Hp=0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：196.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：194.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：192.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：190.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：188.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：186.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：184.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：182.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：180.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：178.0
+坦克----attack----小型怪物 the Harm =16.16 小型怪物Hp=83.84
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：186.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：184.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：182.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：180.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：178.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：176.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：174.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：172.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：170.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：168.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：166.0
+坦克----attack----小型怪物 the Harm =16.16 小型怪物Hp=67.68
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：174.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：172.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：170.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：168.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：166.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：164.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：162.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：160.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：158.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：156.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：154.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：152.0
+坦克----attack----小型怪物 the Harm =16.16 小型怪物Hp=51.52000000000001
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：160.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：158.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：156.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：154.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：152.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：150.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：148.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：146.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：144.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：142.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：140.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：138.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：136.0
+坦克 use Skill:铁甲  harm=3.5999999999999996
+50 小型怪物 DIED!!
+坦克get experience:23.960000000000008
+坦克----attack----小型怪物 the Harm =113.12 小型怪物Hp=0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：144.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：142.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：140.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：138.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：136.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：134.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：132.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：130.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：128.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：126.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：124.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：122.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：120.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：118.0
+坦克----attack----小型怪物 the Harm =16.16 小型怪物Hp=83.84
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：126.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：124.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：122.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：120.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：118.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：116.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：114.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：112.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：110.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：108.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：106.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：104.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：102.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：100.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：98.0
+坦克----attack----小型怪物 the Harm =16.16 小型怪物Hp=67.68
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：106.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：104.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：102.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：100.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：98.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：96.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：94.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：92.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：90.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：88.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：86.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：84.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：82.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：80.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：78.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：76.0
+坦克----attack----小型怪物 the Harm =16.16 小型怪物Hp=51.52000000000001
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：84.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：82.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：80.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：78.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：76.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：74.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：72.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：70.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：68.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：66.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：64.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：62.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：60.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：58.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：56.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：54.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：52.0
+坦克----attack----小型怪物 the Harm =16.16 小型怪物Hp=35.360000000000014
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：60.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：58.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：56.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：54.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：52.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：50.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：48.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：46.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：44.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：42.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：40.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：38.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：36.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：34.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：32.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：30.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：28.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：26.0
+坦克 use Skill:铁甲  harm=3.5999999999999996
+坦克----attack----小型怪物 the Harm =16.16 小型怪物Hp=15.600000000000012
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：34.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：32.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：30.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：28.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：26.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：24.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：22.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：20.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：18.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：16.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：14.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：12.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：10.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：8.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：6.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：4.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：2.0
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：0.0
+Hero Die:坦克
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：-2.0
+Hero Die:坦克
+小型怪物-attack-坦克--harm=:2.0  hero.HP剩余：-4.0
+Hero Die:坦克
